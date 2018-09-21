@@ -20,6 +20,31 @@ if (!function_exists( '_wp_render_title_tag' ) ) {
     add_action( 'wp_head', 'mts_render_title' );
 }
 
+
+/*-----------------------------------------------------------------------------------*/
+/*  Remove check out fields　　Quang　
+/*-----------------------------------------------------------------------------------*/
+add_filter( 'woocommerce_checkout_fields' , 'custom_checkout_form' );
+function custom_checkout_form( $fields ) {
+//     unset($fields['billing']['billing_postcode']); //Ẩn postCode
+//     unset($fields['billing']['billing_state']); //Ẩn bang hạt
+//     unset($fields['billing']['billing_address_2']); //Ẩn địa chỉ 2
+//     unset($fields['billing']['billing_company']); //Ẩn công ty
+    unset($fields['billing']['billing_country']);// Ẩn quốc gia
+//     unset($fields['billing']['billing_last_name']);//Ẩn last name
+//     unset($fields['billing']['billing_city']); //Ẩn select box chọn thành phố
+    return $fields;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*  remove required properties　　Quang　
+/*-----------------------------------------------------------------------------------*/
+add_filter( 'woocommerce_billing_fields', 'remove_required_fields');
+function remove_required_fields( $fields ) {
+    $fields['billing_email']['required'] = false;
+    return $fields;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*  Load Translation Text Domain
 /*-----------------------------------------------------------------------------------*/
