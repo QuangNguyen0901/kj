@@ -2440,3 +2440,24 @@ ul.products.loading:after {
     from { transform: rotate(0deg); }
     to { transform: rotate(359deg); }
 }
+
+/* Quang edited */
+#billing_country_field{
+	display:none !important;
+}
+.woocommerce form .form-row-wide{
+	width:100%;
+}
+#billing_state_field{
+	width:48%;
+}
+#billing_city_field{
+	width:48%;
+	margin-left:4%;
+}
+#billing_first_name_field{
+	width:100%;
+}
+
+
+

@@ -30,8 +30,8 @@ function custom_checkout_form( $fields ) {
 //     unset($fields['billing']['billing_state']); //Ẩn bang hạt
 //     unset($fields['billing']['billing_address_2']); //Ẩn địa chỉ 2
 //     unset($fields['billing']['billing_company']); //Ẩn công ty
-    unset($fields['billing']['billing_country']);// Ẩn quốc gia
-//     unset($fields['billing']['billing_last_name']);//Ẩn last name
+//     unset($fields['billing']['billing_country']);// Ẩn quốc gia
+    unset($fields['billing']['billing_last_name']);//Ẩn last name
 //     unset($fields['billing']['billing_city']); //Ẩn select box chọn thành phố
     return $fields;
 }
