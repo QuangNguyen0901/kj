@@ -2,274 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c4c89f4-75b5-42fb-a7b4-323cf89a4814" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cake_config_setting_v0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/languages/plugins/woocommerce-vi.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/languages/plugins/woocommerce-vi.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/languages/themes/mythemeshop-vi.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/languages/themes/mythemeshop-vi.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/languages/loco-translate.pot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/lib/compiled/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/lib/compiled/gettext.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/lib/compiled/locales.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/lib/compiled/phpunit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/lib/data/languages.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/lib/data/locales.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/lib/data/plurals.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/lib/data/regions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/loco.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/loco.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/config.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/editor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/fileinfo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/locale.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/podiff.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/poinit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/poview.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/skins/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/skins/coffee.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/skins/ectoplasm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/skins/light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/skins/midnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/skins/ocean.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/css/skins/sunrise.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/font/loco.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/font/loco.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/font/loco.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/font/loco.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/flags.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/logo-foot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/skins/blue/spin-primary-button.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/skins/coffee/spin-primary-button.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/skins/ectoplasm/spin-primary-button.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/skins/fresh/spin-primary-button.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/skins/light/spin-primary-button.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/skins/midnight/spin-primary-button.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/skins/ocean/spin-primary-button.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/skins/sunrise/spin-primary-button.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/spin-editor-button.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/spin-modal.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/wg/splitx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/img/wg/splity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/delete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/editor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/min/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/podiff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/poinit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/potinit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/poview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/pub/js/setup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/Locale.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/DebugController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/ErrorController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/Navigation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/RedirectController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/RootController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/bundle/BaseController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/bundle/ConfController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/bundle/DebugController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/bundle/LocaleController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/bundle/SetupController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/bundle/ViewController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/config/BaseController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/config/DebugController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/config/PrefsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/config/SettingsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/config/VersionController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/file/BaseController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/file/DeleteController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/file/DiffController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/file/EditController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/file/InfoController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/file/ViewController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/init/BaseController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/init/InitPoController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/init/InitPotController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/list/BaseController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/list/CoreController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/list/LocalesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/list/PluginsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/admin/list/ThemesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/DiffController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/DownloadConfController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/DownloadController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/FsConnectController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/FsReferenceController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/MsginitController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/PingController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/SaveController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/SyncController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/XgettextController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/ajax/common/BundleController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/api/WordPressFileSystem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/api/WordPressTranslations.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/compat/Failure.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/compat/JsonExtension.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/compat/JsonSerializable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/compat/MbstringExtension.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/compat/PosixExtension.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/compat/TokenizerExtension.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/config/ArrayModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/config/BundleReader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/config/BundleWriter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/config/CustomSaved.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/config/FormModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/config/Model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/config/XMLModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/CompiledData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/Cookie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/Option.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/Permissions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/Preferences.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/RecentItems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/Serializable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/Session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/Settings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/data/Transient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/AdminNotices.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/Debug.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/Exception.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/LocaleException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/Notice.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/ParseException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/Success.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/Warning.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/WriteException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/error/XmlParseException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/Directory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/DummyFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/File.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/FileFinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/FileList.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/FileListInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/FileMode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/FileWriter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/Link.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/LocaleDirectory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/LocaleFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/LocaleFileList.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/Locations.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/Revisions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/fs/Siblings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/gettext/Data.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/gettext/Extraction.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/gettext/Metadata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/gettext/SearchPaths.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/gettext/WordCount.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/hooks/AdminHooks.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/hooks/Hookable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/hooks/LoadHelper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/hooks/TranslateBuffer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/js/Strings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/AdminController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/AdminRouter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/AjaxController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/AjaxRouter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/FileParams.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/HiddenFields.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/PostParams.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/View.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/mvc/ViewParams.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/output/Buffer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/output/DiffRenderer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Bundle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Core.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Debugger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Inverter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Listener.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Locale.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Plugin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Project.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/TextDomain.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/package/Theme.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/test/DummyFtpConnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/test/RecursiveException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/test/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/test/TestFilters.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/test/TransientObject.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/src/test/WordPressTestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/alias.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/conf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/debug.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/inc-po-links.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/inc-po-table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/locale.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/setup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/setup/author.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/setup/conf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/setup/core.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/setup/inc-nav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/setup/meta.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/setup/none.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/setup/partial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/setup/saved.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/bundle/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/common/inc-fsconn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/common/inc-po-header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/common/inc-table-filter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/config/debug.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/config/prefs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/config/settings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/config/version.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/debug.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/errors/file-isdir.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/errors/file-missing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/errors/generic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/errors/no-backups.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/errors/no-locale.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/errors/no-tokenizer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/diff.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/edit-po.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/edit-pot.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/editor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/info-mo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/info-other.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/info-po.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/info-pot.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/info.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/msgcat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/view-mo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/view-po.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/view-pot.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/file/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/side-bar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-bundle-conf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-bundle-setup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-bundle-view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-file-edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-file-info.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-file-view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-init-po.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-init-pot.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-list-bundles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-list-locales.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-locale-view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-settings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/help/tab-support.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/init/init-po.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/init/init-pot.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/init/init-prompt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/layout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/list/bundles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/list/inc-table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/list/locales.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/admin/root.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/debug/dump.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/loco-translate/tpl/debug/xml.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-countries.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-countries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/mts_woocart/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/mts_woocart/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/mts_woocart/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/mts_woocart/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -304,10 +36,10 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="wc-user-functions.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wc-user-functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-user-functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1442">
+            <state relative-caret-position="-8113">
               <caret line="110" column="94" selection-start-line="110" selection-start-column="86" selection-end-line="110" selection-end-column="94" />
             </state>
           </provider>
@@ -316,16 +48,31 @@
       <file leaf-file-name="form-edit-account.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/form-edit-account.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+            <state relative-caret-position="288">
+              <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="51" />
+              <folding>
+                <element signature="e#6#628#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="form-edit-address.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/form-edit-address.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-address.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/my-address.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/mts_woocart/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="420">
               <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding>
                 <element signature="e#68659#68665#0#HTML" expanded="true" />
@@ -406,14 +153,14 @@
               <item name="kj" type="b2602c69:ProjectViewProjectNode" />
               <item name="kj" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kj" type="b2602c69:ProjectViewProjectNode" />
               <item name="kj" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="mts_woocart" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="woocommerce" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -449,16 +196,15 @@
       <updated>1538033594765</updated>
       <workItem from="1538033596384" duration="2714000" />
       <workItem from="1538135010142" duration="1916000" />
-      <workItem from="1538147126592" duration="426000" />
+      <workItem from="1538147126592" duration="4200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5056000" />
+    <option name="totallyTimeSpent" value="8830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30600291" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -523,6 +269,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+          <folding>
+            <element signature="e#6#628#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -546,13 +295,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-customer.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-user-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1442">
-          <caret line="110" column="94" selection-start-line="110" selection-start-column="86" selection-end-line="110" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5600">
@@ -560,16 +302,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/form-edit-account.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/mts_woocart/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="420">
           <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding>
             <element signature="e#68659#68665#0#HTML" expanded="true" />
@@ -577,6 +312,31 @@
             <element signature="n#style#0;n#select#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#select#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/form-edit-address.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/my-address.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/form-edit-account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="51" />
+          <folding>
+            <element signature="e#6#628#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-user-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8113">
+          <caret line="110" column="94" selection-start-line="110" selection-start-column="86" selection-end-line="110" selection-end-column="94" />
         </state>
       </provider>
     </entry>

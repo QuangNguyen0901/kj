@@ -2450,10 +2450,10 @@ ul.products.loading:after {
 }
 #billing_state_field{
 	width:48%;
+	margin-right:4%;
 }
 #billing_city_field{
 	width:48%;
-	margin-left:4%;
 }
 #billing_first_name_field{
 	width:100%;
