@@ -671,7 +671,7 @@ class WC_Countries {
 				'required'     => true,
 				'class'        => array( 'form-row-wide', 'address-field' ),
 				'autocomplete' => 'address-level2',
-				'priority'     => 70,
+				'priority'     => 42, // old value 70
 			),
 			'state'      => array(
 				'type'         => 'state',
@@ -680,7 +680,7 @@ class WC_Countries {
 				'class'        => array( 'form-row-wide', 'address-field' ),
 				'validate'     => array( 'state' ),
 				'autocomplete' => 'address-level1',
-				'priority'     => 80,
+				'priority'     => 41, // old value 80
 			),
 			'postcode'   => array(
 				'label'        => __( 'Postcode / ZIP', 'woocommerce' ),

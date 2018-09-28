@@ -46,6 +46,15 @@ function remove_required_fields( $fields ) {
 }
 
 /*-----------------------------------------------------------------------------------*/
+/*  Remove account fields in address page　　Quang　
+/*-----------------------------------------------------------------------------------*/
+add_filter( 'woocommerce_default_address_fields' , 'remove_account_form_fields' );
+function remove_account_form_fields( $fields ) {
+    unset($fields['last_name']);//Ẩn last name
+    return $fields;
+}
+
+/*-----------------------------------------------------------------------------------*/
 /*  Load Translation Text Domain
 /*-----------------------------------------------------------------------------------*/
 load_theme_textdomain( 'mythemeshop', get_template_directory().'/lang' );
