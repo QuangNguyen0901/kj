@@ -56,6 +56,24 @@ function remove_account_form_fields( $fields ) {
 }
 
 /*-----------------------------------------------------------------------------------*/
+/*  add fields in my account/register  page　　Quang　
+/*-----------------------------------------------------------------------------------*/
+add_action( 'woocommerce_register_form_start', 'wooc_extra_register_fields' );
+function wooc_extra_register_fields() {?>
+<p class="form-row form-row-wide">
+<label for="reg_billing_first_name"><?php _e( 'First name', 'woocommerce' ); ?><span class="required">*</span></label>
+<input type="text" class="input-text" name="billing_first_name" id="reg_billing_first_name" value="<?php if ( ! empty(    $_POST['billing_first_name'] ) ) esc_attr_e( $_POST['billing_first_name'] ); ?>" />
+</p>
+<p class="form-row form-row-wide">
+<label for="reg_billing_phone"><?php _e( 'Phone', 'woocommerce' ); ?><span class="required">*</span></label>
+<input type="text" class="input-text" name="billing_phone" id="reg_billing_phone" value="<?php esc_attr_e( $_POST['billing_phone'] ); ?>" />
+</p>
+<!-- <div class="clear"></div>  -->
+<?php
+}
+
+
+/*-----------------------------------------------------------------------------------*/
 /*  Load Translation Text Domain
 /*-----------------------------------------------------------------------------------*/
 load_theme_textdomain( 'mythemeshop', get_template_directory().'/lang' );
