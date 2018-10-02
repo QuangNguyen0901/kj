@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-09-29 09:48+0000\n"
+"PO-Revision-Date: 2018-10-02 17:29+0000\n"
 "Last-Translator: admin <hikari0901@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -6690,7 +6690,7 @@ msgstr ""
 #: includes/admin/settings/views/html-webhooks-edit.php:67
 #: includes/class-wc-frontend-scripts.php:566
 msgid "Select an option&hellip;"
-msgstr ""
+msgstr "Lựa chọn&hellip;"
 
 #: includes/admin/class-wc-admin-assets.php:263
 #: includes/admin/meta-boxes/views/html-order-item-meta.php:49
@@ -7362,7 +7362,7 @@ msgstr ""
 #: includes/admin/class-wc-admin-log-table-list.php:56
 #: includes/admin/class-wc-admin-log-table-list.php:147
 msgid "Error"
-msgstr ""
+msgstr "Lỗi"
 
 #: includes/admin/class-wc-admin-log-table-list.php:60
 #: includes/admin/class-wc-admin-log-table-list.php:148
@@ -13871,7 +13871,7 @@ msgstr ""
 
 #: includes/admin/settings/views/html-settings-tax.php:8
 msgid "Search&hellip;"
-msgstr ""
+msgstr "Tìm kiếm&hellip;"
 
 #. translators: %s: tax rate
 #: includes/admin/settings/views/html-settings-tax.php:17
@@ -19790,7 +19790,7 @@ msgstr "Ghi chú"
 
 #: includes/class-wc-checkout.php:216
 msgid "Notes about your order, e.g. special notes for delivery."
-msgstr ""
+msgstr "Bạn có thể để lời nhắn của bạn cho shop"
 
 #: includes/class-wc-checkout.php:227
 msgid "Account username"
@@ -19840,7 +19840,7 @@ msgstr ""
 #: includes/class-wc-checkout.php:722 includes/class-wc-form-handler.php:117
 #: includes/class-wc-form-handler.php:248
 msgid "%s is a required field."
-msgstr ""
+msgstr "Hãy nhập %s."
 
 #: includes/class-wc-checkout.php:740 includes/class-wc-form-handler.php:379
 msgid ""
@@ -20231,7 +20231,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:176
 msgid "Address changed successfully."
-msgstr ""
+msgstr "Thay đổi địa chỉ thành công."
 
 #: includes/class-wc-form-handler.php:235
 msgid "Display name cannot be changed to email address due to privacy concern."
@@ -20244,7 +20244,7 @@ msgstr "Tên hiển thị trên trang web"
 
 #: includes/class-wc-form-handler.php:255 includes/wc-user-functions.php:44
 msgid "Please provide a valid email address."
-msgstr ""
+msgstr "Email chưa được nhập đúng."
 
 #: includes/class-wc-form-handler.php:257
 msgid "This email address is already registered."
@@ -20361,14 +20361,14 @@ msgstr ""
 #: includes/class-wc-form-handler.php:992
 msgid "%s is a required field"
 msgid_plural "%s are required fields"
-msgstr[0] ""
+msgstr[0] "Hãy nhập %s"
 msgstr[1] ""
 
 #: includes/class-wc-form-handler.php:1029
 #: includes/class-wc-form-handler.php:1033
 #: includes/class-wc-form-handler.php:1182 includes/wc-user-functions.php:108
 msgid "Error:"
-msgstr ""
+msgstr "Lỗi:"
 
 #: includes/class-wc-form-handler.php:1033
 msgid "Username is required."
@@ -24379,7 +24379,7 @@ msgstr ""
 
 #: includes/wc-template-functions.php:28
 msgid "Checkout is not available whilst your cart is empty."
-msgstr ""
+msgstr "Chưa có sản phẩm nào được lựa chọn."
 
 #: includes/wc-template-functions.php:848
 msgid "privacy policy"
@@ -24488,7 +24488,7 @@ msgstr ""
 
 #: includes/wc-user-functions.php:80
 msgid "Please enter an account password."
-msgstr ""
+msgstr "Password chưa được nhập."
 
 #: includes/wc-user-functions.php:108
 msgid ""
@@ -25185,7 +25185,7 @@ msgstr "Xác nhận password mới"
 
 #: templates/myaccount/form-edit-address.php:49
 msgid "Save address"
-msgstr ""
+msgstr "Lưu địa chỉ"
 
 #: templates/myaccount/form-login.php:55
 msgid "Log in"
@@ -25193,7 +25193,7 @@ msgstr ""
 
 #: templates/myaccount/form-login.php:74 templates/myaccount/form-login.php:107
 msgid "Register"
-msgstr ""
+msgstr "Đăng ký"
 
 #: templates/myaccount/form-lost-password.php:24
 msgid ""
@@ -25628,7 +25628,7 @@ msgstr ""
 #: includes/wc-product-functions.php:241
 msgctxt "slug"
 msgid "uncategorized"
-msgstr ""
+msgstr "Chưa phân loại"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:106
 #: includes/admin/class-wc-admin-permalink-settings.php:205
@@ -25657,7 +25657,7 @@ msgstr ""
 #: includes/class-wc-install.php:492 includes/class-wc-install.php:498
 msgctxt "Default category slug"
 msgid "Uncategorized"
-msgstr ""
+msgstr "Chưa phân loại"
 
 #. translators: %s: count
 #: includes/admin/class-wc-admin-webhooks-table-list.php:178
@@ -25961,4 +25961,4 @@ msgstr[1] ""
 #: templates/product-searchform.php:27
 msgctxt "submit button"
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"

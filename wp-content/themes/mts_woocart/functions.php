@@ -75,10 +75,10 @@ function wooc_extra_register_fields() {?>
 add_action( 'woocommerce_register_post', 'wooc_validate_extra_register_fields', 10, 3 );
 function wooc_validate_extra_register_fields( $username, $email, $validation_errors ) {
 	if ( isset( $_POST['billing_first_name'] ) && empty( $_POST['billing_first_name'] ) ) {
-        $validation_errors->add( 'billing_first_name_error', __( '<strong>Error</strong>: First name is required!', 'woocommerce' ) );
+        $validation_errors->add( 'billing_first_name_error', __( '<strong>Error</strong>: Họ tên chưa được nhập', 'woocommerce' ) );
     }
 	if ( isset( $_POST['billing_phone'] ) && empty( $_POST['billing_phone'] ) ) {
-        $validation_errors->add( 'billing_phone_error', __( '<strong>Error</strong>: Phone is required!', 'woocommerce' ) );
+        $validation_errors->add( 'billing_phone_error', __( '<strong>Error</strong>: Số điện thoại chưa được nhập', 'woocommerce' ) );
     }
 }
 /* save the extra register fields.*/
