@@ -71,7 +71,48 @@ function wooc_extra_register_fields() {?>
 <!-- <div class="clear"></div>  -->
 <?php
 }
+/* Validate the extra register fields.*/
+add_action( 'woocommerce_register_post', 'wooc_validate_extra_register_fields', 10, 3 );
+function wooc_validate_extra_register_fields( $username, $email, $validation_errors ) {
+	if ( isset( $_POST['billing_first_name'] ) && empty( $_POST['billing_first_name'] ) ) {
+        $validation_errors->add( 'billing_first_name_error', __( '<strong>Error</strong>: First name is required!', 'woocommerce' ) );
+    }
+	if ( isset( $_POST['billing_phone'] ) && empty( $_POST['billing_phone'] ) ) {
+        $validation_errors->add( 'billing_phone_error', __( '<strong>Error</strong>: Phone is required!', 'woocommerce' ) );
+    }
+}
+/* save the extra register fields.*/
+add_action( 'woocommerce_created_customer', 'wooc_save_extra_register_fields' );
+function wooc_save_extra_register_fields( $customer_id ) {
+	if ( isset( $_POST['billing_first_name'] ) ) {
+        // WordPress default first name field.
+        update_user_meta( $customer_id, 'first_name', sanitize_text_field( $_POST['billing_first_name'] ) );
 
+        // WooCommerce billing first name.
+        update_user_meta( $customer_id, 'billing_first_name', sanitize_text_field( $_POST['billing_first_name'] ) );
+    }
+	if ( isset( $_POST['billing_phone'] ) ) {
+        // WooCommerce billing phone
+        update_user_meta( $customer_id, 'billing_phone', sanitize_text_field( $_POST['billing_phone'] ) );
+    }
+}
+
+
+/** 
+ *Reduce the strength requirement on the woocommerce password.  QUANG
+ * 
+ * Strength Settings
+ * 3 = Strong (default)
+ * 2 = Medium
+ * 1 = Weak
+ * 0 = Very Weak / Anything
+ */
+function reduce_woocommerce_min_strength_requirement( $strength ) {
+    return 0;
+}
+add_filter( 'woocommerce_min_password_strength', 'reduce_woocommerce_min_strength_requirement' );
+
+	
 
 /*-----------------------------------------------------------------------------------*/
 /*  Load Translation Text Domain
