@@ -47,10 +47,10 @@ class WooViet_Provinces {
 	 * @return array
 	 */
 	public function edit_vn_locale( $array ) {
-		$array['VN']['state']['label']    = __( 'Province', 'woo-viet' );
+		$array['VN']['state']['label']    = __( 'Tỉnh/Thành phố', 'woo-viet' );
 		$array['VN']['state']['required'] = true;
 
-		$array['VN']['city']['label']      = __( 'District', 'woo-viet' );
+		$array['VN']['city']['label']      = __( 'Quận/Huyện', 'woo-viet' );
 		$array['VN']['postcode']['hidden'] = true;
 
 		return $array;
